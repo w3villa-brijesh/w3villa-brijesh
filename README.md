@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Brijesh Singh Yadav - aka Itsbsy 😎</h1>
+<h1 align="center">Hi there 👋, I'm Brijesh Singh Yadav 😎</h1>
 
 <h3 align="center">A passionate backend developer from India, weaving magic with code.</h3>
 
@@ -16,19 +16,19 @@
 </p>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=itsbsy&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=1800"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsbsy&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=w3villa-brijesh&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=w3villa-brijesh&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsbsy&theme=dark" alt="itsbsy" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=w3villa-brijesh&theme=dark" alt="itsbsy" />
 </p>
 
 ### 📈 My Github Card:
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itsbsy&theme=vue" alt="Profile Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=w3villa-brijesh&theme=vue" alt="Profile Summary" />
 </p>
 
 
